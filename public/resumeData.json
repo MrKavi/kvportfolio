@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Kv Gasyal",
+    "occupation": "Freelancer",
+    "description": "Full Stack Developer.",
+    "image": "pf.png",
+    "bio": "My name is Kv, I'm a Full Stack ReactJS Developer. Currently I'm working as a freelancer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "kvigasyal@gmail.com",
+    "phone": "+91 9370085975 ",
+    "address": {
+      "street": "007 Street K",
+      "city": "Delhi",
+      "state": "Uttarakhand",
+      "zip": "263642"
+    },
+    "website": "http://www.incoders",
+    "resumedownload": "http://kv",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "These are some of my skills ",
+    "education": [
+      {
+        "school": "Kumaon University -Almora",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "January 2015",
+        "description": "Graduated with first Div"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "ReactJs",
+        "years": "May 2019 - Present",
+        "description": "Transforming the lives of people by giving them affordable deal!"
+      },
+      {
+        "company": "Freelancer",
+        "title": "Developer",
+        "years": "Jan 2019 - Present",
+        "description": "Helping businesses showing their best selves to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS & Firebase",
+        "image": "zoom.jpg",
+        "url": "https://clone-ce66b.web.app/"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "robinhood.jpg",
+        "url": "https://facebook-clone-1a216.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Kv got awesome skills...",
+        "user": "Friend"
+      },
+      {
+        "text": "That Kv must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of in the Tech and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Friend... impersonator"
+      }
+    ]
+  }
+}
